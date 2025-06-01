@@ -24,5 +24,5 @@ Set up a full CI/CD pipeline using GitHub Actions and Docker to build, test, and
 
 
 ### Author
-##Gauraj Jadhav
+## Gauraj Jadhav
 
